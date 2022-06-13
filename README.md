@@ -1,1 +1,1 @@
-# www.patika.dev React homework2  https://app.patika.dev/courses/react/odev2
+ www.patika.dev React homework2  https://app.patika.dev/courses/react/odev2
